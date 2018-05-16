@@ -1,0 +1,26 @@
+{
+  "name": "js-oop-lesson",
+  "version": "1.0.0",
+  "description": "JavaScript OOP lesson",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.generalassemb.ly:wdi-nyc/js-oop-lesson.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "OOP",
+    "lesson"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.3.0",
+    "eslint-config-airbnb-base": "^11.3.1",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
